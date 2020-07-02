@@ -1,0 +1,22 @@
+{
+  "name": "sass-style-guide",
+  "version": "1.0.0",
+  "description": "Adopt-a-Tree is an initiative by Carved Rock Fitness to adopt trees from various afforestation projects across the world.",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node-sass --watch assets/scss/styles.scss assets/css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickhallett/Sass-Style-Guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickhallett/Sass-Style-Guide/issues"
+  },
+  "homepage": "https://github.com/rickhallett/Sass-Style-Guide#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
